@@ -1,1 +1,40 @@
+{
+  "again" : ["a", "GAIN"],
+  "daredevil": ["DEVIL","DARE","PRESPART"],
+  "elephant": "ELEPHANT",
+  "oliphant": "ELEPHANT",
+  "boatswain,bosun": ["boat","SWAIN"],
+  "Midgard": ["Mid", "YARD"],
+  "Anglosaxon": ["ANGLO", "SAXON"],
+  "blue":"blo",
+  "defile": "file",
+  "fresh": {
+    "word": "fersh",
+    "staving": "fersc"
+  },
+  "lion": "lee",
+  "lioness": "leen",
+  "loin": "lend",
+  "lunar": {
+    "word": "moonly",
+    "staving": "moonlie"
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
