@@ -13,18 +13,7 @@ class Word:
 
 
 def main():
-    yld = Word(
-        normal= {
-            Dialects.WS:"ild",
-            Dialects.A:"eld"
-            },
-        etymology={
-            Dialects.WS: {Dialects.LWS: "yld(o)", Dialects.EWS: "ield(u)"},
-            Dialects.A: ["æld(u)", "eld(o)"]
-        },
-        glosses="age",
-        wordclass=[Wordclass.N,Wordclass.V]
-    )
+    
 
     yif = Word(
         normal = {
