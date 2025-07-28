@@ -162,18 +162,6 @@ def main():
 
     )
 
-    bury = Word(
-        normal="bury",
-        anglish={
-            Dialects.NK: "berie",
-            Dialects.AS:"birrie"
-        },
-        uttering={
-            Dialects.NK: "/'bɛr.i/",
-            Dialects.AS: "/'bɪri/"
-        }
-    )
-
     evil = Word(
         normal="yvil",
         anglish="yfel"
