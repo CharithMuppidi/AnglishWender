@@ -101,56 +101,6 @@ def main():
         glosses="swain"
     )
 
-    hote = Word("hote",
-        tenses={
-            "2nd":Word(
-                normal={
-                    Dialects.S:"heatst",
-                    Dialects.A:"hotest"
-                },
-                etymology={
-                    Dialects.WS:"hǣtst",
-                    Dialects.A:"hātes(t"
-                }
-            ),
-            "3rd":Word(
-                normal={
-                    Dialects.S:"heat",
-                    Dialects.A:"hoteth"
-                },
-                anglish={
-                    Dialects.A: "hoteð"
-                },
-                etymology={
-                    Dialects.WS:"hǣt",
-                    Dialects.A:"hāteþ"
-                }
-            ),
-            "past": Word(
-                normal={
-                    Dialects.S: "heet",
-                    Dialects.A: "hight"
-                },
-                anglish={
-                    Dialects.A: "higt"
-                },
-                etymology={
-                    Dialects.WS: "hẹ̄t",
-                    Dialects.A: "heht"
-                }
-            ),
-            "past participle": Word(
-                normal="hoten",
-                etymology="hāten"
-            )
-
-        },
-        wordclass=Wordclass.V,
-        etymology={Dialects.ME:"hōten"},
-        glosses="designate"
-
-    )
-
     evil = Word(
         normal="yvil",
         anglish="yfel"
